@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">File Downloader</string>
+    <string name="Delete">Delete</string>
+    <string name="Edit">Edit</string>
+    <string name="ChooseAction">Choose Action</string>
+    <string name="download_successful">Download successful</string>
+    <string name="download_error">Download Error %1$s</string>
+    <string name="delete_success">Delete Success</string>
+    <string name="delete_error">Delete Error %1$s</string>
+    <string name="directory_not_selected">Directory not selected</string>
+
+</resources>
