@@ -6,6 +6,6 @@ Small App downloads video file using OkHttp, Retrofit, MediaStore
 * [Retrofit 2](https://square.github.io/retrofit/)
 * [OkHTTP](https://square.github.io/okhttp/)
 * [Glide](https://github.com/bumptech/glide)
-* [MediaStore]https://developer.android.com/reference/android/provider/MediaStore
+* [MediaStore](https://developer.android.com/reference/android/provider/MediaStore)
 # ScreenShot
-<img src="https://github.com/condorserg/OMDB/blob/master/Screenshot.png" width="225">
+<img src="https://github.com/condorserg/FileDownloader/blob/master/Screenshot.png" width="225">
