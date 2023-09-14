@@ -38,7 +38,7 @@
         android:id="@+id/downloadButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Скачать в sdcard/Movies"
+        android:text="@string/download_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/fileNameTextField" />
@@ -47,7 +47,7 @@
         android:id="@+id/downloadDifferentButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Скачать в выбранную папку"
+        android:text="@string/download_different_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/downloadButton" />

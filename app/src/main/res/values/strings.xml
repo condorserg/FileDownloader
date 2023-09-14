@@ -8,5 +8,7 @@
     <string name="delete_success">Delete Success</string>
     <string name="delete_error">Delete Error %1$s</string>
     <string name="directory_not_selected">Directory not selected</string>
+    <string name="download_button">Download To sdcard/Movies</string>
+    <string name="download_different_button">Choose directory...</string>
 
 </resources>
